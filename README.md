@@ -5,10 +5,6 @@ Shows the current music's album art, the three next music after it, with clickab
 
 ![image](https://user-images.githubusercontent.com/82582556/143687114-fca09d0e-3d16-4348-a8f1-71474ba5c3da.png)
 
-#### Download:
-- From [Release](https://github.com/InLurker/Musicbee-Chimera-Skin/releases)
-- From [Official Musicbee Website](https://getmusicbee.com/addons/theater-mode/355/chimera/)
-
 #### How to Use:
 1. Go to your Musicbee installation directory
 2. Go to "MusicBee\Plugins\TheaterMode.Embeded"
